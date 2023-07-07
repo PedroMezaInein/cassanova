@@ -35,8 +35,8 @@ class AsideMenuList extends Component{
         const { name, url } = sub
         const { access_token } = this.props.props.authUser
         switch(name){
-            case 'CRM':
-            case 'Mi Proyecto':
+            // case 'CRM':
+            // case 'Mi Proyecto':
             case 'Te escuchamos':  
             case 'Incidencias':   
             case 'Directorio':
@@ -67,7 +67,7 @@ class AsideMenuList extends Component{
                                     </span>
                                     {
                                         modulo.url ? 
-                                            modulo.url === '/mi-proyecto' || modulo.url === '/te-escuchamos' || modulo.url === '/comunicados' || modulo.url === '/reporte' ||
+                                            modulo.url === '/te-escuchamos' || modulo.url === '/comunicados' || modulo.url === '/reporte' ||
                                             modulo.url === '/vacaciones-permisos' ||  modulo.url === '/encuestas/clima-laboral' ? 
                                             <span className="menu-text menu-link text-uppercase" to={modulo.url}>{modulo.name}</span>
                                             : 
