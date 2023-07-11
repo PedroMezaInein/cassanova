@@ -211,7 +211,7 @@
       "serve": "cp-cli build _site/react/preview/react/react-new/demo1 && serve",
       "dev": "NODE_OPTIONS=--max-old-space-size=8192",
       "start": "react-scripts start --browser=chrome react-scripts start",
-      "build": "node --max_old_space_size=4096 react-scripts start",
+      "build": "node --max_old_space_size=4096 node_modules/.bin/react-scripts build",
       "test": "react-scripts test",
       "eject": "react-scripts eject",
       "predeploy": "npm run build",
