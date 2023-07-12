@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs"
+    version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 480 480" style="enable-background:new 0 0 512 512"
+    xml:space="preserve" class="">
+    <g>
+        <linearGradient xmlns="http://www.w3.org/2000/svg" id="a">
+            <stop stop-opacity="1" stop-color="#006df0" offset="0" />
+            <stop stop-opacity="1" stop-color="#00e7f0" offset="1" />
+        </linearGradient>
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="b"
+            gradientUnits="userSpaceOnUse" x1="160" x2="160" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="c"
+            gradientUnits="userSpaceOnUse" x1="432" x2="432" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="d"
+            gradientUnits="userSpaceOnUse" x1="112" x2="112" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="e"
+            gradientUnits="userSpaceOnUse" x1="40" x2="40" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="f"
+            gradientUnits="userSpaceOnUse" x1="448" x2="448" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="g"
+            gradientUnits="userSpaceOnUse" x1="416" x2="416" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="h"
+            gradientUnits="userSpaceOnUse" x1="384" x2="384" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="i"
+            gradientUnits="userSpaceOnUse" x1="352" x2="352" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="j"
+            gradientUnits="userSpaceOnUse" x1="320" x2="320" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="k"
+            gradientUnits="userSpaceOnUse" x1="288" x2="288" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="l"
+            gradientUnits="userSpaceOnUse" x1="256" x2="256" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="m"
+            gradientUnits="userSpaceOnUse" x1="226.339901" x2="226.339901" xlink:href="#a" y1="-6.259652"
+            y2="516.252348" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="n"
+            gradientUnits="userSpaceOnUse" x1="202.341934" x2="202.341934" xlink:href="#a" y1="-6.26456"
+            y2="516.24744" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="o"
+            gradientUnits="userSpaceOnUse" x1="176" x2="176" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <linearGradient xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="p"
+            gradientUnits="userSpaceOnUse" x1="144" x2="144" xlink:href="#a" y1="-6.256" y2="516.256" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m320 0h-16v72h-304v16h320zm0 0" fill="url(#b)"
+            data-original="url(#b)" style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m384 352h96v-16h-80v-168h80v-16h-96zm0 0" fill="url(#c)"
+            data-original="url(#c)" style="" class="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m400 72v-72h-16v88h96v-16zm0 0" fill="url(#c)"
+            data-original="url(#c)" style="" class="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m384 480h16v-48h80v-16h-96zm0 0" fill="url(#c)"
+            data-original="url(#c)" style="" class="" />
+        <path xmlns="http://www.w3.org/2000/svg"
+            d="m181.335938 464h-181.335938v16h186.664062l64-48h53.335938v48h16v-64h-74.664062zm0 0" fill="url(#b)"
+            data-original="url(#b)" style="" />
+        <path xmlns="http://www.w3.org/2000/svg"
+            d="m304 336h-74.664062l-64 48h-21.335938v16h26.664062l64-48h85.335938v-200h-320v16h304zm0 0" fill="url(#b)"
+            data-original="url(#b)" style="" />
+        <path xmlns="http://www.w3.org/2000/svg"
+            d="m112 200c-39.746094.042969-71.957031 32.253906-72 72 0 36.800781 58.71875 122.847656 65.414062 132.542969l6.585938 9.535156 6.585938-9.535156c6.695312-9.695313 65.414062-95.742188 65.414062-132.542969-.042969-39.746094-32.253906-71.957031-72-72zm0 185.695312c-20.136719-30.457031-56-89.695312-56-113.695312 0-30.929688 25.070312-56 56-56s56 25.070312 56 56c0 24-35.871094 83.199219-56 113.695312zm0 0"
+            fill="url(#d)" data-original="url(#d)" style="" class="" />
+        <path xmlns="http://www.w3.org/2000/svg"
+            d="m112 240c-17.671875 0-32 14.328125-32 32s14.328125 32 32 32 32-14.328125 32-32-14.328125-32-32-32zm0 48c-8.835938 0-16-7.164062-16-16s7.164062-16 16-16 16 7.164062 16 16-7.164062 16-16 16zm0 0"
+            fill="url(#d)" data-original="url(#d)" style="" class="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m0 384h80v16h-80zm0 0" fill="url(#e)" data-original="url(#e)"
+            style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m440 112h16v16h-16zm0 0" fill="url(#f)" data-original="url(#f)"
+            style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m408 112h16v16h-16zm0 0" fill="url(#g)" data-original="url(#g)"
+            style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m376 112h16v16h-16zm0 0" fill="url(#h)" data-original="url(#h)"
+            style="" />
+        <g xmlns="http://www.w3.org/2000/svg" fill="url(#i)">
+            <path d="m344 112h16v16h-16zm0 0" fill="" />
+            <path d="m344 152h16v16h-16zm0 0" fill="" />
+            <path d="m344 184h16v16h-16zm0 0" fill="" />
+            <path d="m344 216h16v16h-16zm0 0" fill="" />
+            <path d="m344 248h16v16h-16zm0 0" fill="" />
+            <path d="m344 280h16v16h-16zm0 0" fill="" />
+            <path d="m344 312h16v16h-16zm0 0" fill="" />
+            <path d="m344 344h16v16h-16zm0 0" fill="" />
+            <path d="m344 376h16v16h-16zm0 0" fill="" />
+        </g>
+        <path xmlns="http://www.w3.org/2000/svg" d="m312 376h16v16h-16zm0 0" fill="url(#j)" data-original="url(#j)"
+            style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m280 376h16v16h-16zm0 0" fill="url(#k)" data-original="url(#k)"
+            style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m248 376h16v16h-16zm0 0" fill="url(#l)" data-original="url(#l)"
+            style="" />
+        <path xmlns="http://www.w3.org/2000/svg"
+            d="m215.027344 389.65625 11.3125-11.316406 11.316406 11.316406-11.316406 11.3125zm0 0" fill="url(#m)"
+            data-original="url(#m)" style="" />
+        <path xmlns="http://www.w3.org/2000/svg"
+            d="m191.027344 413.652344 11.3125-11.3125 11.316406 11.3125-11.316406 11.3125zm0 0" fill="url(#n)"
+            data-original="url(#n)" style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m168 424h16v16h-16zm0 0" fill="url(#o)" data-original="url(#o)"
+            style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m136 424h16v16h-16zm0 0" fill="url(#p)" data-original="url(#p)"
+            style="" />
+        <path xmlns="http://www.w3.org/2000/svg" d="m104 424h16v16h-16zm0 0" fill="url(#d)" data-original="url(#d)"
+            style="" class="" />
+    </g>
+</svg>
