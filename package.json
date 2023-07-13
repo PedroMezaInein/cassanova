@@ -231,6 +231,7 @@
       "deploy": "gh-pages -d build",
       "lint": "eslint src",
       "format": "prettier --write \"src/**/*.{js,css,scss,html}\""
+      
    },
    "eslintConfig": {
       "extends": "react-app"
